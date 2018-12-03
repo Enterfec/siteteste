@@ -1,0 +1,2 @@
+Para executar o sass
+sass -w inc/sass:inc/
